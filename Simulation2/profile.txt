@@ -1,0 +1,3 @@
+Gmbh,Herr,HanZ,npex,str.123,NULL,52499,Baesweiler,HanZ
+UG,Frau,paracetamol,kupfer,jülicher,str.56b,funf,32699,Extertal,claudia
+,,  

@@ -1,0 +1,396 @@
+32049-32052 Herford
+32105-32108 Bad Salzuflen
+32120 Hiddenhausen
+32130 Enger
+32139 Spenge
+32257 Bünde
+32278 Kirchlengern
+32289 Rödinghausen
+32312 Lübbecke
+32339 Espelkamp
+32351 Stemwede
+32361 Preußisch Oldendorf
+32369 Rahden
+32423-32429 Minden
+32457 Porta Westfalica
+32469 Petershagen (Weser)
+32479 Hille
+32545-32549 Bad Oeynhausen
+32584 Löhne
+32602 Vlotho
+32609 Hüllhorst
+32657 Lemgo
+32676 Lügde
+32683 Barntrup
+32689 Kalletal
+32694 Dörentrup
+32699 Extertal
+32756-32760 Detmold
+32791 Lage (Lippe)
+32805 Horn-Bad Meinberg
+32816 Schieder-Schwalenberg
+32825 Blomberg
+32832 Augustdorf
+32839 Steinheim
+33014 Bad Driburg
+33034 Brakel
+33039 Nieheim
+33098-33161 Paderborn
+33129 Delbrück
+33142 Büren
+33154 Salzkotten
+33161 Hövelhof
+33165 Lichtenau (Westfalen)
+33175 Bad Lippspringe
+33178 Borchen
+33181 Bad Wünnenberg
+33184 Altenbeken
+33189 Schlangen
+33330-33335 Gütersloh
+33378 Rheda-Wiedenbrück
+33397 Rietberg
+33415 Verl
+33428 Harsewinkel
+33442 Herzebrock-Clarholz
+33449 Langenberg
+33602-33739 Bielefeld
+33758 Schloß Holte-Stukenbrock
+33775 Versmold
+33790 Halle (Westfalen)
+33803 Steinhagen (Westfalen)
+33813 Oerlinghausen
+33818 Leopoldshöhe
+33824 Werther (Westfalen)
+33829 Borgholzhausen
+34414 Warburg
+34431 Marsberg
+34434 Borgentreich
+34439 Willebadessen
+37671 Höxter
+37688 Beverungen
+37696 Marienmünster
+40210-40721 Düsseldorf
+40472-40885 Ratingen
+40667-40670 Meerbusch
+40699 Erkrath
+40721-40724 Hilden
+40764 Langenfeld (Rheinland)
+40789 Monheim am Rhein
+40822 Mettmann
+41061-41239 Mönchengladbach
+41334 Nettetal
+41352 Korschenbroich
+41363 Jüchen
+41366 Schwalmtal (Niederrhein)
+41372 Niederkrüchten
+41379 Brüggen (Niederrhein)
+41460-41472 Neuss
+41515-41517 Grevenbroich
+41539-41542 Dormagen
+41564 Kaarst
+41569 Rommerskirchen
+41747-41751 Viersen
+41812 Erkelenz
+41836 Hückelhoven
+41844 Wegberg
+41849 Wassenberg
+42103-42399 Wuppertal
+42477 Radevormwald
+42489 Wülfrath
+42499 Hückeswagen
+42549-42555 Velbert
+42579 Heiligenhaus
+42651-42719 Solingen
+42781 Haan
+42799 Leichlingen (Rheinland)
+42853-42899 Remscheid
+42929 Wermelskirchen
+44135-44388 Dortmund
+44532-44536 Lünen
+44575-44581 Castrop-Rauxel
+44623-44653 Herne
+44787-44894 Bochum
+45127-45359 Essen
+45468-45481 Mülheim an der Ruhr
+45525-45529 Hattingen
+45549 Sprockhövel
+45657-45665 Recklinghausen
+45699-45701 Herten
+45711 Datteln
+45721 Haltern am See
+45731 Waltrop
+45739 Oer-Erkenschwick
+45768-45772 Marl
+45879-45899 Gelsenkirchen
+45964-45968 Gladbeck
+46045-46149 Oberhausen
+46236-46244 Bottrop
+46282-46286 Dorsten
+46325 Borken
+46342 Velen
+46348 Raesfeld
+46354 Südlohn
+46359 Heiden (Münsterland)
+46395-46399 Bocholt
+46414 Rhede
+46419 Isselburg
+46446 Emmerich am Rhein
+46459 Rees
+46483-46487 Wesel
+46499 Hamminkeln
+46509 Xanten
+46514 Schermbeck
+46519 Alpen
+46535-46539 Dinslaken
+46562 Voerde
+46569 Hünxe
+47051-47279 Duisburg
+47441-47447 Moers
+47475 Kamp-Lintfort
+47495 Rheinberg
+47506 Neukirchen-Vluyn
+47509 Rheurdt
+47533 Kleve
+47546 Kalkar
+47551 Bedburg-Hau
+47559 Kranenburg (Niederrhein)
+47574 Goch
+47589 Uedem
+47608 Geldern
+47623-47627 Kevelaer
+47638 Straelen
+47647 Kerken
+47652 Weeze
+47661 Issum
+47665 Sonsbeck
+47669 Wachtendonk
+47798-47839 Krefeld
+47877 Willich
+47906 Kempen
+47918 Tönisvorst
+47929 Grefrath
+48143-48167 Münster (Westfalen)
+48231 Warendorf
+48249 Dülmen
+48268 Greven
+48282 Emsdetten
+48291 Telgte
+48301 Nottuln
+48308 Senden (Westfalen)
+48317 Drensteinfurt
+48324 Sendenhorst
+48329 Havixbeck
+48336 Sassenberg
+48341 Altenberge
+48346 Ostbevern
+48351 Everswinkel
+48356 Nordwalde
+48361 Beelen
+48366 Laer
+48369 Saerbeck
+48429-48432 Rheine
+48477 Hörstel
+48485 Neuenkirchen
+48493 Wettringen (Münsterland)
+48496 Hopsten
+48565 Steinfurt
+48599 Gronau (Westfalen)
+48607 Ochtrup
+48612 Horstmar
+48619 Heek
+48624 Schöppingen
+48629 Metelen
+48653 Coesfeld
+48683 Ahaus
+48691 Vreden
+48703 Stadtlohn
+48712 Gescher
+48720 Rosendahl
+48727 Billerbeck
+48734 Reken
+48739 Legden
+49477-49479 Ibbenbüren
+49492 Westerkappeln
+49497 Mettingen
+49504 Lotte
+49509 Recke
+49525 Lengerich (Westfalen)
+49536 Lienen
+49545 Tecklenburg
+49549 Ladbergen
+50126-50129 Bergheim
+50169-50171 Kerpen
+50181 Bedburg
+50189 Elsdorf (Rheinland)
+50226 Frechen
+50259 Pulheim
+50321 Brühl (Rheinland)
+50354 Hürth
+50374 Erftstadt
+50389 Wesseling
+50667-51467 Köln
+51371-51381 Leverkusen
+51399 Burscheid
+51427-51469 Bergisch Gladbach
+51491 Overath
+51503 Rösrath
+51515 Kürten
+51519 Odenthal
+51545 Waldbröl
+51570 Windeck
+51580 Reichshof
+51588 Nümbrecht
+51597 Morsbach
+51643-51647 Gummersbach
+51674 Wiehl
+51688 Wipperfürth
+51702 Bergneustadt
+51709 Marienheide
+51766 Engelskirchen
+51789 Lindlar
+52062-52080 Aachen
+52134 Herzogenrath
+52146 Würselen
+52152 Simmerath
+52156 Monschau
+52159 Roetgen
+52222-52224 Stolberg (Rheinland)
+52249 Eschweiler
+52349-52355 Düren
+52372 Kreuzau
+52379 Langerwehe
+52382 Niederzier
+52385 Nideggen
+52388 Nörvenich
+52391 Vettweiß
+52393 Hürtgenwald
+52396 Heimbach (Eifel)
+52399 Merzenich
+52428 Jülich
+52441 Linnich
+52445 Titz
+52457 Aldenhoven
+52459 Inden
+52477 Alsdorf
+52499 Baesweiler
+52511 Geilenkirchen
+52525 Heinsberg
+52525 Waldfeucht
+52531 Übach-Palenberg
+52538 Gangelt
+52538 Selfkant
+53111-53229 Bonn
+53332 Bornheim (Rheinland)
+53340 Meckenheim (Rheinland)
+53343 Wachtberg
+53347 Alfter
+53359 Rheinbach
+53604 Bad Honnef
+53639 Königswinter
+53721 Siegburg
+53757 Sankt Augustin
+53773 Hennef (Sieg)
+53783 Eitorf
+53797 Lohmar
+53804 Much
+53809 Ruppichteroth
+53819 Neunkirchen-Seelscheid
+53840-53844 Troisdorf
+53859 Niederkassel
+53879-53881 Euskirchen
+53894 Mechernich
+53902 Bad Münstereifel
+53909 Zülpich
+53913 Swisttal
+53919 Weilerswist
+53925 Kall
+53937 Schleiden
+53940 Hellenthal
+53945 Blankenheim (Ahr)
+53947 Nettersheim
+53949 Dahlem (Nordeifel)
+57072-57080 Siegen
+57223 Kreuztal
+57234 Wilnsdorf
+57250 Netphen
+57258 Freudenberg (Siegerland)
+57271 Hilchenbach
+57290 Neunkirchen (Siegerland)
+57299 Burbach (Siegerland)
+57319 Bad Berleburg
+57334 Bad Laasphe
+57339 Erndtebrück
+57368 Lennestadt
+57392 Schmallenberg
+57399 Kirchhundem
+57413 Finnentrop
+57439 Attendorn
+57462 Olpe
+57482 Wenden (Sauerland)
+57489 Drolshagen
+58089-58135 Hagen
+58239 Schwerte
+58256 Ennepetal
+58285 Gevelsberg
+58300 Wetter (Ruhr)
+58313 Herdecke an der Ruhr
+58332 Schwelm
+58339 Breckerfeld
+58452-58456 Witten
+58507-58515 Lüdenscheid
+58540 Meinerzhagen
+58553 Halver
+58566 Kierspe
+58579 Schalksmühle
+58636-58644 Iserlohn
+58675 Hemer
+58706-58710 Menden (Sauerland)
+58730 Fröndenberg/Ruhr
+58739 Wickede (Ruhr)
+58762 Altena
+58769 Nachrodt-Wiblingwerde
+58791 Werdohl
+58802 Balve
+58809 Neuenrade
+58840 Plettenberg
+58849 Herscheid
+59063-59077 Hamm
+59174 Kamen
+59192 Bergkamen
+59199 Bönen
+59227-59229 Ahlen
+59269 Beckum
+59302 Oelde
+59320 Ennigerloh
+59329 Wadersloh
+59348 Lüdinghausen
+59368 Werne
+59379 Selm
+59387 Ascheberg
+59394 Nordkirchen
+59399 Olfen
+59423-59427 Unna
+59439 Holzwickede
+59457 Werl
+59469 Ense
+59494 Soest
+59505 Bad Sassendorf
+59510 Lippetal
+59514 Welver
+59519 Möhnesee
+59555-59558 Lippstadt
+59581 Warstein
+59590 Geseke
+59597 Erwitte
+59602 Rüthen
+59609 Anröchte
+59755-59823 Arnsberg
+59846 Sundern (Sauerland)
+59872 Meschede
+59889 Eslohe (Sauerland)
+59909 Bestwig
+59929 Brilon
+59939 Olsberg
+59955 Winterberg
+59964 Medebach
+59969 Hallenberg
